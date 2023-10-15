@@ -1,6 +1,6 @@
 ![logo](https://github.com/HarshAgria/HarshAgria/blob/main/LInked%20in%20bg%20git.png)
 <h1 align="center">Hi 👋, I'm Harsh Agria</h1>
-<h3 align="center">A passionate 😎 Software Developer || Web Developer || Open Source Enthusiastic || Designer || NIT Kurukshetra'25 || Information Technology. Loves 💓 to code inovative new ideas.</h3>
+<h3 align="center">A passionate 😎 Software Developer || Web Developer || Open Source Enthusiastic || Designer || NIT Kurukshetra'25 || Information Technology. Loves 💓 to code inovative new ideas.🌟 Let's collaborate and create something amazing together! #CodeIsLife </h3>
 <img align="right" alt="Coding" width="400" style="borderRadius: 20px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshagria&label=Profile%20views&color=0e75b6&style=flat" alt="harshagria" /> </p>
