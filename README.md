@@ -13,9 +13,8 @@
 
 - 📫 How to reach me **harsh11agria77@gmail.com**
 
-- 📝 I regularly write articles on [https://aquamarine-twyla-82.tiiny.site/](https://aquamarine-twyla-82.tiiny.site/)
+- 📝 My Resume  [https://aquamarine-twyla-82.tiiny.site/](https://aquamarine-twyla-82.tiiny.site/)
 
-- ⚡ My previous GitHub profile **https://github.com/Harsh-Agria**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
